@@ -60,6 +60,7 @@ This report compares two voice-over scripts found in the `5_Symbols` directory t
 | **Time Investment** | **Low** (2-4 hrs) | **High** (8-12+ hrs) |
 | **Expected Quality** | **Broadcast Ready.** High production value, consistent tone, narrative cohesion. | **Raw/Authentic.** Variable production value, jumpy narrative, requires "documentary" framing. |
 | **Output Reach** | **Broad.** High retention potential (viral style), suitable for cold audiences and landing pages. | **Niche.** Lower retention (long-form/podcast style), best for "superfans" or deep-dive technical audiences. |
+| **Performance Multiplier** | **~10x** (Expected due to narrative hook & retention) 📈 | **1x** (Baseline for unedited content) |
 | **ROI Verdict** | **High Impact / Low Effort** 🚀 | **Medium Impact / High Effort** ⚠️ |
 
 ## Recommendation
