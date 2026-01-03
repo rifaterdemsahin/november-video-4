@@ -1,5 +1,13 @@
 # 📐 Algorithms and Logic
 
+## 1.1 🧠 Methodology & Assessment (Voice Over Integration)
+> **Reference:** [Voice Over Script](../5_Symbols/voice_over.md)
+
+### 3-Stage Support Architecture
+1.  **Assessment:** Private, 1-on-1 questionnaire analyzing prompts and Git projects to map the "AI Learning Space".
+2.  **Training:** Tailored AI training modules based on the assessment.
+3.  **Workshops:** Hands-on application (personal & company) with human feedback to build "CV as Code".
+
 ## 1.3 📝 Script & Content Development
 
 - [ ] 1.3.1 **Script Preparation** 📜

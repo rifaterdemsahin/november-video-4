@@ -1,5 +1,15 @@
 # 🗺️ Roadmap and Constraints
 
+## 2.1 🛠️ Platform & Infrastructure (Voice Over Integration)
+> **Reference:** [Voice Over Script](../5_Symbols/voice_over.md)
+
+### The "Unknown" to "Known" Bridge
+- **Platform:** **GitHub** is the core platform.
+    - **Developers:** Use **CodeSpaces** to pull repos and run environments (C++, C#, Java, Python).
+    - **Non-Developers:** Use GitHub to capture requirements and contribute to "WIP Programming".
+- **Infrastructure:** **200+ Repositories** serve as templates.
+- **Concept:** **Infrastructure as Code (IaC)** starts with "Vibe Programming" (defining the environment) to bridge the gap between unknown requirements and known delivery.
+
 ## 1.5 🚀 Development MVP
 
 - [x] 1.5.1 **Project Setup** 💻
