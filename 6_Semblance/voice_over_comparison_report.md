@@ -53,6 +53,15 @@ This report compares two voice-over scripts found in the `5_Symbols` directory t
 | **Processed Version** | **2-4 Hours** | **Low Complexity.** <br>• Script is linear and polished.<br>• Visuals can easily follow the "Avalanche" and "Vehicle" metaphors.<br>• Audio requires minimal cutting/cleaning. |
 | **Original Version** | **8-12+ Hours** | **High Complexity.** <br>• Requires significant "script surgery" to remove fillers and reorder for flow.<br>• Audio will need heavy splicing (removing "umms", pauses, restarts).<br>• Visual storytelling is harder to sync with the conversational/jumping structure. |
 
+## Strategic ROI Comparison
+
+| Metric | Processed Version | Original Version |
+| :--- | :--- | :--- |
+| **Time Investment** | **Low** (2-4 hrs) | **High** (8-12+ hrs) |
+| **Expected Quality** | **Broadcast Ready.** High production value, consistent tone, narrative cohesion. | **Raw/Authentic.** Variable production value, jumpy narrative, requires "documentary" framing. |
+| **Output Reach** | **Broad.** High retention potential (viral style), suitable for cold audiences and landing pages. | **Niche.** Lower retention (long-form/podcast style), best for "superfans" or deep-dive technical audiences. |
+| **ROI Verdict** | **High Impact / Low Effort** 🚀 | **Medium Impact / High Effort** ⚠️ |
+
 ## Recommendation
 
 **Winner for Video Production:** **[Processed Version] (5_Symbols/voice_over_original_google_notebookprocessed.md)**
